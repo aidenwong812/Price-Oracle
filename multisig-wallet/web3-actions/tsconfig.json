@@ -1,0 +1,21 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "noImplicitReturns": true,
+        "noUnusedLocals": false,
+        "outDir": "out",
+        "resolveJsonModule": true,
+        "sourceMap": true,
+        "strict": true,
+        "target": "es2020",
+        "rootDir": ""
+    },
+    "exclude": [
+        "actions"
+    ],
+    "include": [
+        "**/*"
+    ]
+}
